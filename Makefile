@@ -12,4 +12,4 @@ clean:
 	rm -r bin/
 
 run: build
-	$(NAME)
+	$(NAME) /home/denis/music/atmo/baba
